@@ -52,3 +52,6 @@ This will start the training process using the config-f configuration file, whic
 
 Conclusion
 StyleGAN is a powerful tool for generating high-quality images. With this repository, you can experiment with pre-trained models or train your own models using TensorFlow. If you have any questions or comments, please feel free to open an issue or a pull request.
+# results
+![SGANCATS](https://user-images.githubusercontent.com/77893734/227651870-4be54a5e-1800-4317-a976-2e742b79fba1.png)
+
